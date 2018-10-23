@@ -1,0 +1,1 @@
+# Lucas-Square-Pyramid-on-multicore-machines
